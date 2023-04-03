@@ -60,4 +60,4 @@ I am a full-time Electrical and Computer Engineering Student  <img src="https://
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleMp2&count_private=true&layout=compact&theme=tokyonight&include_all_commits=true)](https://github.com/NicoleMp2/github-readme-stats)
 
 
-![Metrics](/metrics.svg)
+![Metrics](https://metrics.lecoq.io/NicoleMp2?template=classic&languages=1&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FAthens)
