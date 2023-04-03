@@ -60,4 +60,4 @@ I am a full-time Electrical and Computer Engineering Student  <img src="https://
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleMp2&count_private=true&layout=compact&theme=tokyonight&include_all_commits=true)](https://github.com/NicoleMp2/github-readme-stats)
 
 
-![Snake animation](https://github.com/NicoleMp2/MicoleMp2/blob/output/github-contribution-grid-snake.svg)
+![Metrics](/metrics.svg)
