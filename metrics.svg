@@ -12,6 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: user/NicoleMp2@master
+- uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS }}
