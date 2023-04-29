@@ -11,9 +11,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/UGWpLb1b4KddktMz0y/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 
@@ -53,3 +50,7 @@ I am a full-time Electrical and Computer Engineering Student  <img src="https://
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/UGWpLb1b4KddktMz0y/giphy.gif" width="600" height="300"/>
+</div>
