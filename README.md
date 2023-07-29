@@ -56,8 +56,7 @@ I am a full-time Electrical and Computer Engineering Student  <img src="https://
   <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" title="neo4j" alt="neo4j" width="40" height="40"/>&nbsp;
    </div>
 
----
 
-<div align="center">
-  <img src="https://media.giphy.com/media/UGWpLb1b4KddktMz0y/giphy.gif" width="600" height="300"/>
-</div>
+<!--<div align="center">
+   <img src="https://media.giphy.com/media/UGWpLb1b4KddktMz0y/giphy.gif" width="600" height="300"/> 
+ </div> -->
