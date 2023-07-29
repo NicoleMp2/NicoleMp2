@@ -1,9 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhiMjRiYWM0OTU4NGJhOWVlNzg2MDE2MGI3YzYxMjEyNjZjMzE2YSZjdD1z/jTHti8z6rjrUZmBgOp/giphy.gif" width="100"/>
 <div id="badges">
-<a href="www.linkedin.com/in/nikoletta-barmpa">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<a href="https://linkedin.com/in/nikoletta-barmpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikoletta barmpa" height="30" width="40" /></a>
+  </p>
 </div>
  <img src="https://komarev.com/ghpvc/?username=NicoleMp2&style=flat-square&color=blue" alt=""/>
  <h1>
@@ -18,11 +17,11 @@
 I am a full-time Electrical and Computer Engineering Student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Greece.
 - :telescope: I’m working on my diploma thesis on software-network security.
 
-- :seedling: Exploring Network Protocols and Cybersecurity.
+- :seedling: Exploring Network Protocol Stack and Cybersecurity.
 
 - :zap: In my free time, I hack machines on HackTheBox and read sci-fi books.
 
-- :mailbox: How to reach me: nikolettabarmpa@gmail.com <img src="https://media.giphy.com/media/Mc1vkhM9JfZ3Oi7s8H/giphy.gif" width="40">
+- :mailbox: How to reach me: nikolettabarmpa@gmail.com
 
 ---
 
