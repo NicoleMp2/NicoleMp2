@@ -8,11 +8,13 @@
 
 ### :woman_technologist: About Me :
 I am a full-time Electrical and Computer Engineering Student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Greece.
-- :telescope: I’m currently working on my diploma thesis.
+- :telescope: Currently, I'm laser-focused on nailing my diploma thesis.
 
-- :seedling: Exploring Network Stack and Cybersecurity.
+- :seedling: I'm nurturing my curiosity in the realms of Network Stack and Cybersecurity.
 
-- :zap: In my free time, I hack machines on HackTheBox and read sci-fi books.
+- :zap: When I'm not buried in code or books, you'll find me shredding machines on HackTheBox or diving into the captivating worlds of sci-fi literature.
+
+- 🚀 And hey, did I mention? I'm also a proud software engineer at [SPIN - Space Innovation](https://github.com/SPIN-Space-Innovation)
 
 ---
 
@@ -21,6 +23,7 @@ I am a full-time Electrical and Computer Engineering Student  <img src="https://
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="networkx" alt="networkx" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
