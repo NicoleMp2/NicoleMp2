@@ -7,14 +7,14 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a full-time Electrical and Computer Engineering Student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Greece.
-- :telescope: Currently, I'm laser-focused on nailing my diploma thesis.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a full-time Electrical and Computer Engineering Student from Greece.
 
-- :seedling: I'm nurturing my curiosity in the realms of Network Stack and Cybersecurity.
+🌱 Curious by nature and driven by a passion for technology, I enjoy solving challenging problems in computer systems, software engineering, and AI. I have a strong background in networking, secure coding practices, and hands-on development experience in a variety of domains—from compiler design to machine learning and driver development.
 
-- :zap: When I'm not buried in code or books, you'll find me shredding machines on HackTheBox or diving into the captivating worlds of sci-fi literature.
+🦎 When I’m not coding, you’ll probably find me bouldering, doing yoga, or planning my next travel adventure 🌍✨
 
-- 🚀 And hey, did I mention? I'm also a proud software engineer at [SPIN - Space Innovation](https://github.com/SPIN-Space-Innovation)
+🕵️‍♀️🔐 And when I'm in full tech mode, I’m probably hacking away at some boxes on [Hack The Box](https://www.hackthebox.com/)
+
 
 ---
 
